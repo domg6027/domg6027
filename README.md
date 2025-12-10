@@ -1,11 +1,9 @@
 Derech Olam Ministries International Network
 --------------------------------------------
-
-DOMG6027 is a core repository of Derech Olam Ministries International (DOM).
+DOMG6027 is the main website of Derech Olam Ministries International (DOM).
 
 🌍 About Derech Olam Ministries International
 ----------------------------------------------
-
 Derech Olam Ministries International is dedicated to:
 
 * Teaching and restoring ancient biblical foundations
@@ -18,7 +16,6 @@ The ministry’s digital network is built across multiple repositories, each han
 
 📁 Purpose of the DOMG6027 Repository
 ------------------------------------
-
 This repository specifically manages:
 
 * Daily HTML messages
@@ -32,7 +29,6 @@ DOMG6027 acts as the daily publication channel, ensuring all messages remain acc
 
 🔗 Part of a Larger Network
 ----------------------------
-
 DOMG6027 consists of the following services:
 
 * DOMG6027 — Derech Olam Ministries Int'l daily messages
@@ -45,7 +41,6 @@ Together, these form the complete digital ecosystem of the ministry.
 
 🎯 Why This Repository Exists
 ------------------------------
-
 The goal of DOM6027 is to:
 
 * Provide a consistent daily output stream
